@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"9b617f9843da177e","type":"text","text":"Aula 2 - GDD","x":-1000,"y":-529,"width":250,"height":60},
+		{"id":"6216aa1e22de2d25","type":"file","file":"GDD.md","x":-1140,"y":-349,"width":400,"height":400},
+		{"id":"b4913010a1402ac2","type":"file","file":"Exercício 1.md","x":-640,"y":-340,"width":400,"height":400},
+		{"id":"ab392373603b54fc","type":"file","file":"Resposta 1.md","x":-640,"y":160,"width":400,"height":400},
+		{"id":"9d4eb6658d723deb","type":"file","file":"The Theory of Fun.md","x":-1620,"y":-499,"width":400,"height":400},
+		{"id":"1300645c5e66f58d","type":"text","text":"Aula 3","x":471,"y":-453,"width":250,"height":60},
+		{"id":"8147f9568d92faa5","x":233,"y":-376,"width":400,"height":400,"type":"file","file":"High Concept.md"},
+		{"id":"cebb4167babdc280","x":334,"y":143,"width":400,"height":400,"type":"file","file":"Game Overview.md"},
+		{"id":"378dd393fd782386","x":958,"y":-447,"width":250,"height":207,"type":"text","text":"**Titulo do jogo** -\ndeve resumir o conceito mas não precisa estar definido desde o inicio do projeto"},
+		{"id":"8de5d24994f7b83c","x":705,"y":-161,"width":250,"height":60,"type":"text","text":"**Palavras-chave**"}
+	],
+	"edges":[
+		{"id":"654762916833185a","fromNode":"9b617f9843da177e","fromSide":"bottom","toNode":"6216aa1e22de2d25","toSide":"top"},
+		{"id":"7878055d49dd6256","fromNode":"9b617f9843da177e","fromSide":"right","toNode":"b4913010a1402ac2","toSide":"top"},
+		{"id":"95ea7ffd030292f2","fromNode":"b4913010a1402ac2","fromSide":"bottom","toNode":"ab392373603b54fc","toSide":"top"},
+		{"id":"838565b5aec2fa52","fromNode":"9b617f9843da177e","fromSide":"left","toNode":"9d4eb6658d723deb","toSide":"right"},
+		{"id":"d73ec8c4409bf245","fromNode":"8147f9568d92faa5","fromSide":"top","toNode":"1300645c5e66f58d","toSide":"left"},
+		{"id":"3c5203f0d3914036","fromNode":"8147f9568d92faa5","fromSide":"bottom","toNode":"cebb4167babdc280","toSide":"top"},
+		{"id":"c5d6536cf36512be","fromNode":"1300645c5e66f58d","fromSide":"right","toNode":"378dd393fd782386","toSide":"left"},
+		{"id":"92fb4f18cb6a4592","fromNode":"1300645c5e66f58d","fromSide":"bottom","toNode":"8de5d24994f7b83c","toSide":"top"}
+	]
+}

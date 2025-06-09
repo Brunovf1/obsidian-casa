@@ -1,0 +1,1 @@
+1. [[GDD]] - Documento base sobre o jogo onde deve ser descrito todos elementos relevantes para os envolvidos no projeto

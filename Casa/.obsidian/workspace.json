@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "66c5251014eb3666",
+    "type": "split",
+    "children": [
+      {
+        "id": "6056ae9965eba7cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a63a6ba152d70a3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Aulas.canvas",
+                "viewState": {
+                  "x": 873.407654070951,
+                  "y": 8.351598122011339,
+                  "zoom": -0.9951129731279968
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Aulas"
+            }
+          },
+          {
+            "id": "36211f02f0717c61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High Concept.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "High Concept"
+            }
+          },
+          {
+            "id": "b31977772a931754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game Overview"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "08f43fa9ac6f3410",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0de8881ac351021c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Aulas.canvas",
+                "viewState": {
+                  "x": 1009.6458243204297,
+                  "y": -9.39267891104086,
+                  "zoom": -0.09319756379243438
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Aulas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "892f6f01659916ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e9634fb95771678",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e028e26035efe75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "030cc6fde249bb05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c426296563daec83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3bbf25f2af3309b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "10c43a387f535dea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46bf53e21a6e071f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aulas.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Aulas"
+            }
+          },
+          {
+            "id": "de5ed2c3460c54a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aulas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Aulas"
+            }
+          },
+          {
+            "id": "147374369020bd2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c157f11f51775812",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aulas.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Aulas"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0de8881ac351021c",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Aulas.canvas",
+    "Game Overview.md",
+    "High Concept.md",
+    "The Theory of Fun.md",
+    "Resposta 1.md",
+    "Exercício 1.md",
+    "GDD.md",
+    "Curso de Game Design.md"
+  ]
+}
