@@ -1,0 +1,1 @@
+Opção de cameras funcionado a energia solar
