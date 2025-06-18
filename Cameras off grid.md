@@ -1,2 +1,2 @@
 Opção de cameras funcionado a energia solar.
-Nessa opção seria possível 
+Nessa opção seria possível embarcar dispositivos 
