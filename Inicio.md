@@ -1,4 +1,4 @@
 Equilíbrio prevenção x afugentar
 Monitorar - custo de analisar dados
-Opcoes de monitoramento
-Opção de atuação
+Opções de monitoramento
+Opções de atuação
