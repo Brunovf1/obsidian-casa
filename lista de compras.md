@@ -3,4 +3,6 @@ Vanish
 Detergente 
 Arroz
 Carne
+Carne Moida
 Frango
+Papel toalha
