@@ -7,3 +7,5 @@ Carne Moida
 Frango
 Papel toalha
 Tomate
+Sabonete
+Xampu
