@@ -6,4 +6,4 @@ Carne
 Carne Moida
 Frango
 Papel toalha
-Cenoura
+Tomate
