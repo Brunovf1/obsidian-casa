@@ -9,3 +9,4 @@ Papel toalha
 Tomate
 Sabonete
 Xampu
+Pasta de dente
